@@ -1,0 +1,5 @@
+  tasks:
+  - name: Creating a empty file or directory
+    file:
+      path: "~/work/file.txt"
+      state: "touch"

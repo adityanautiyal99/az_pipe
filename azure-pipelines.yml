@@ -3,6 +3,3 @@ jobs:
   steps:
   - bash: echo "A"
 
-- job: B
-  steps:
-  - bash: echo "B"
